@@ -1,2 +1,2 @@
 FROM alpine
-CMD ["echo", "Hello again,lets build Cosign!"]
+CMD ["echo", "Hello again,lets build this Cosign!"]
